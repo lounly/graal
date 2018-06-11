@@ -1,7 +1,7 @@
 # overlay version
 overlay = 6d445f13917f2a6d8094e5fe6d23b68cbd992fb9
 
-# labsjdk* are JDKs based on OracleJDK binaries
+# labsjdk* are s based on OracleJDK binaries
 # openjdk* are JDKs based on OpenJDK binaries
 jdks: {
   labsjdk8 : {name : labsjdk, version : "8u151-jvmci-0.40", platformspecific: true}
